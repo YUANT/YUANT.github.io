@@ -6,5 +6,8 @@
     "src": "images/icon.png",
     "type": "image/png",
     "sizes": "144x144"
-  }]
+  }],
+  "background_color": "#aade87",
+  "theme_color": "#aade87",
+  "display": "standalone"
 }
