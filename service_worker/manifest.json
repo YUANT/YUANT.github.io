@@ -1,5 +1,5 @@
 {
   "short_name": "満足度チェッカー",
   "name": "満足度チェッカー",
-  "start_url": "service_worker/index.html"
+  "start_url": "/service_worker/index.html"
 }
