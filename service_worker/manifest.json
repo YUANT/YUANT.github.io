@@ -1,5 +1,10 @@
 {
   "short_name": "満足度チェッカー",
   "name": "満足度チェッカー",
-  "start_url": "/service_worker/index.html"
+  "start_url": "/service_worker/index.html",
+  "icons": [{
+    "src": "images/icon.png",
+    "type": "image/png",
+    "sizes": "144x144"
+  }]
 }
