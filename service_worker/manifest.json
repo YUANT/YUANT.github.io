@@ -6,6 +6,16 @@
     "src": "images/icon.png",
     "type": "image/png",
     "sizes": "144x144"
+  },
+  {
+    "src": "images/icon_192px.png",
+    "type": "image/png",
+    "sizes": "192x192"
+  },
+  {
+    "src": "images/icon_512px.png",
+    "type": "image/png",
+    "sizes": "512x512"
   }],
   "background_color": "#aade87",
   "theme_color": "#aade87",
