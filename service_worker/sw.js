@@ -10,6 +10,11 @@ if (workbox) {
   );
   
   workbox.routing.registerRoute(
+    '/service_worker/',
+    workbox.strategies.staleWhileRevalidate()
+  );
+  
+  workbox.routing.registerRoute(
     new RegExp('.*\.js'),
     workbox.strategies.staleWhileRevalidate()
   );
